@@ -116,10 +116,15 @@ plt.axis("off")
 plt.figure(figsize=(20,10), dpi =200)
 plt.show()
 ```
+
+
 3. DPP related words
+
 ![](https://i.imgur.com/GTUfvXS.png)
 
+
 4. KMT related words
+
 ![](https://i.imgur.com/9jScQVr.png)
 
 ### Cyber Warrior ID detection
