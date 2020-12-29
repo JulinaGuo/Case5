@@ -1,7 +1,20 @@
 # Case5: Cyber Warrior Detection (ONGOING)
 
-### Overview
-The purpose of the project is to identify cyber warriors on PTT. There are two main indice: Political party impression, Comment density.
+### Analysis Pipeline
+* Data overview
+* Information extraction(by comment and by id)
+  * Comment Key words
+  * Comment Time 
+  * Political comment or not
+  * Comment Sentiment
+  * Comment density
+  * ID activity score
+  * ID political preference
+* Netizens over-all behavior analysis
+  * Potential cyber warrior behavior pattern
+  * Potential cyber warrior list
+* cyber warrior ID analysis
+
 
 ### Data set
 2020/12/05 - 2020/12/15 all articles and comments
